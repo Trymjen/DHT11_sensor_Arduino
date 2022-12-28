@@ -14,10 +14,6 @@ This Arduino project uses the DHT11 temperature and humidity sensor to measure t
 
 The sketch reads the temperature and humidity values from the DHT11 sensor and displays them on the temperature and humidity LEDs, respectively. The status LED is used to indicate whether the sensor is functioning properly or not.
 
-## Wiring Diagram
-
-![Wiring Diagram](wiring-diagram.png)
-
 ## References
 
 - DHT11 temperature and humidity sensor: https://www.waveshare.com/wiki/DHT11_Temperature-Humidity_Sensor
